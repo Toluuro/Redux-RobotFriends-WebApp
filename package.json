@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Toluuro.github.io/REDUX-ROBOT-FRIENDS-APP.git",
-  "name": "robotfriends",
+  "homepage": "http://Toluuro.github.io/Redux-RobotFriends-WebApp",
+  "name": "ReduxRobotFriends-WebApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
