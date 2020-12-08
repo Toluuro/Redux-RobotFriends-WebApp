@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Redux-RobotFriends-WebApp/static/css/main.dbd75dd6.chunk.css",
+    "main.js": "/Redux-RobotFriends-WebApp/static/js/main.60370934.chunk.js",
+    "main.js.map": "/Redux-RobotFriends-WebApp/static/js/main.60370934.chunk.js.map",
+    "runtime-main.js": "/Redux-RobotFriends-WebApp/static/js/runtime-main.c618f61f.js",
+    "runtime-main.js.map": "/Redux-RobotFriends-WebApp/static/js/runtime-main.c618f61f.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Redux-RobotFriends-WebApp/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d14af121.chunk.js": "/Redux-RobotFriends-WebApp/static/js/2.d14af121.chunk.js",
+    "static/js/2.d14af121.chunk.js.map": "/Redux-RobotFriends-WebApp/static/js/2.d14af121.chunk.js.map",
+    "index.html": "/Redux-RobotFriends-WebApp/index.html",
+    "precache-manifest.1f5bb6fce4b4ce9d9d03683f1c245600.js": "/Redux-RobotFriends-WebApp/precache-manifest.1f5bb6fce4b4ce9d9d03683f1c245600.js",
+    "service-worker.js": "/Redux-RobotFriends-WebApp/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Redux-RobotFriends-WebApp/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.dbd75dd6.chunk.css.map": "/Redux-RobotFriends-WebApp/static/css/main.dbd75dd6.chunk.css.map",
+    "static/js/2.d14af121.chunk.js.LICENSE.txt": "/Redux-RobotFriends-WebApp/static/js/2.d14af121.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Redux-RobotFriends-WebApp/static/media/electrical.92c3810f.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c618f61f.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d14af121.chunk.js",
+    "static/css/main.dbd75dd6.chunk.css",
+    "static/js/main.60370934.chunk.js"
+  ]
+}
