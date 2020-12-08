@@ -31,17 +31,9 @@ const mapDispatchToProps = (dispatch) => {
 class App extends Component {
     
     componentDidMount() {
-    this.props.onRequestRobots();
-        // fetch('https://jsonplaceholder.typicode.com/users',{
-        //     mode: 'cors',
-        //     headers: {
-        //         'Access-Control-Allow-Origin':'*'
-        //     }
-        // })
-        // .then(response => response.json())
-        // .then(users => {this.setState({robots:users})});
+    this.props.onRequestRobots()
         
-    }
+    };
     
 
     render() {   
